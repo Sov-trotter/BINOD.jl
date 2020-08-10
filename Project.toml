@@ -1,7 +1,10 @@
 name = "BINOD"
 uuid = "a53c0f33-d76c-4691-9d44-64c4ed32e9f5"
 authors = ["BINOD"]
-version = "0.1.0"
+version = "0.2.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
 [compat]
 julia = "1"

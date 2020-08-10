@@ -1,5 +1,12 @@
 module BINOD
+    using Plots
 
-# Write your package code here.
-
+    greet("
+            ____ ___ _   _  ___  ____  
+           | __ )_ _| \ | |/ _ \|  _ \ 
+           |  _ \| ||  \| | | | | | | |
+           | |_) | || |\  | |_| | |_| |
+           |____/___|_| \_|\___/|____/ 
+    ")
+    
 end
